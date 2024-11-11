@@ -5,7 +5,7 @@ Quantumania is a project developed for the Qiskit Fall Fest 2024. It does numero
 ## Installation
 
 Clone the repository to your local machine:
-git clone https://github.com/your-username/Quantumania.git
+git clone https://github.com/Vdiaz100/Quantumania.git
 cd Quantumania
 
 Use pip install to install required libraries.
